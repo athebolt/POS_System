@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\bin\Debug\hw01_AlexanderThebolt.exe.config
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\bin\Debug\hw01_AlexanderThebolt.exe
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\bin\Debug\hw01_AlexanderThebolt.pdb
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.Form1.resources
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.Properties.Resources.resources
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.csproj.GenerateResource.cache
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.exe
+C:\Users\Owner\Documents\CIS Projects\CIS153\hw01_AlexanderThebolt\hw01_AlexanderThebolt\hw01_AlexanderThebolt\obj\Debug\hw01_AlexanderThebolt.pdb
